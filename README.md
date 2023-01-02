@@ -2,4 +2,4 @@
 주식 스터디
 
 ## :card_index_dividers: StockCompany
-- :card_index_dividers: [국내주식(StockKorea)](/StockCompany/README.md)
+- :card_index_dividers: [국내상장주식(StockCompany-Korea)](/StockCompany-Korea/README.md)
