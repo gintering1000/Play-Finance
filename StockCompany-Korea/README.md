@@ -1,6 +1,6 @@
-# Level 01 : ₩1,000,000
+# 국내상장주식(StockCompany-Korea)
 
-## :card_index_dividers: 01차 도전
+## :card_index_dividers: 레벨 01 도전
 - 입금액 : ₩1,000,000
 - 
 
