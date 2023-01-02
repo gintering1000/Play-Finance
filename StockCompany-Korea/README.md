@@ -2,4 +2,3 @@
 
 ## :card_index_dividers: 레벨 01
 - [2023-01 (₩1,000,000)](/StockCompany-Korea/2023-01.md)
-
